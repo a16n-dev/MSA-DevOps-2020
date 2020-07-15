@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          MSA website
+          My site!
         </a>
       </header>
     </div>
