@@ -21,7 +21,7 @@ My build pipeline consists of the following tasks:
 
 The pipeline is automatically run when any change is made to either the develop or master branches
 
-## Release pipeline pipeline
+## Release pipeline
 My release pipeline consists of a single stage:
 
 **Deploy Azure App Service:**
