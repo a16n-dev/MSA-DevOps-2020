@@ -27,7 +27,7 @@ function CardGrid(props: ICardGridProps) {
             return
         }
 
-        const key = process.env.REACT_APP_SPOONACULAR_API_KEY;
+        const key = "e503a695317f445f8ddd088796714c83";
         const url = `https://api.spoonacular.com/recipes/findByIngredients?ingredients=${props.SearchQuery}&number=6&apiKey=${key}`
         fetch(url)
             .then(
